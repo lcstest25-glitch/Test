@@ -1,1 +1,1 @@
-Unable to initialize device PRN
+print("hello world")
